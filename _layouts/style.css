@@ -8,17 +8,17 @@
 /* Corpo della pagina */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4; /* Colore di sfondo chiaro */
-    color: #333333; /* Colore del testo scuro */
+    background-color: #121212; /* Sfondo scuro */
+    color: #e0e0e0; /* Testo chiaro */
     line-height: 1.6;
     padding: 20px;
 }
 
-/* Header principale (titolo della pagina) */
+/* Titolo della pagina */
 h1 {
     font-size: 2.5rem;
     text-align: center;
-    color: #333333;
+    color: #ffffff;
     margin-bottom: 20px;
 }
 
@@ -27,14 +27,14 @@ h1 {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #ffffff; /* Sfondo bianco per il contenuto */
-    border-radius: 8px; /* Angoli arrotondati */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera */
+    background-color: #1e1e1e; /* Sfondo scuro per il contenuto */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Ombra per separare dal fondo */
 }
 
 /* Link nel contenuto */
 a {
-    color: #007bff;
+    color: #64b5f6; /* Colore blu chiaro per i link */
     text-decoration: none;
 }
 
@@ -42,38 +42,39 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Stile per il testo del contenuto */
+/* Paragrafi */
 .content p {
-    font-size: 1.2rem;
-    color: #555555;
-    margin-bottom: 15px;
-}
-
-/* Sezione di codice o preformattato */
-pre {
-    background-color: #2d2d2d;
-    color: #f1f1f1;
-    padding: 15px;
-    border-radius: 5px;
-    overflow-x: auto;
-}
-
-/* Stili di base per immagini */
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
+    font-size: 1.1rem;
+    color: #e0e0e0;
     margin-bottom: 20px;
 }
 
-/* Media Queries per schermi più piccoli */
+/* Codice (blocco preformattato) */
+pre {
+    background-color: #2e2e2e;
+    color: #f1f1f1;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+    margin-bottom: 20px;
+}
+
+/* Immagini */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Media Queries per schermi piccoli (responsive) */
 @media (max-width: 768px) {
     h1 {
         font-size: 2rem;
     }
 
     .content {
-        padding: 10px;
+        padding: 15px;
     }
 
     .content p {
