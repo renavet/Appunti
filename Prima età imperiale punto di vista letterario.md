@@ -1,0 +1,11 @@
+## Produzione letteraria
+- Al livello sociale non ci sono grandi turbolenze,ciò favorisce la produzione,aumenta anche la scolarizzazione
+- i **poeti sono sostenuti da liberti cavalieri e nuovi ricchi**,non più solo dal princeps,che lo fanno per ricevere fama e gloria,i **poeti rimangono soggetti ai padroni**,circolano però più idee e punti di vista
+- con [Claudio](Prima%20Et%C3%A0%20Imperiale%20contesto%20storico) e [TIberio](obsidian://open?vault=Obsidian&file=Latino%2FPrima%20Et%C3%A0%20Imperiale%20contesto%20storico) vengono rispettate le tradizioni e la religio,si fanno anche fautori della letteratura,mentre con [Caligola](obsidian://open?vault=Obsidian&file=Latino%2FPrima%20Et%C3%A0%20Imperiale%20contesto%20storicoci )sono molte repressioni.**[Nerone](obsidian://open?vault=Obsidian&file=Latino%2FPrima%20Et%C3%A0%20Imperiale%20contesto%20storico) sovvenziona più di tutti l'arte per ricevere gloria personale**,tiene però una sorta di indice dei libri proibiti dove andavano i libri che gli andavano contro.**aumentano le recitazioni teatrali e con esse l'interesse per la cultura** 
+- **vengono prediletti i generi minori come: **
+	- astronomia
+	- favola
+	- mito
+- **l'oratoria diventa solo un mero esercizio**
+- Già con Augusto era nato l'amore per la grecia e la sua perfezione,e con essa la voglia di prendere spunto ed imitare le grandi opere dei greci mettendoci del proprio:**imitatio** 
+- **si perde la funzione civile e morale della scrittura** 
