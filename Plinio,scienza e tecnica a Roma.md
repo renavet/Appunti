@@ -8,6 +8,8 @@ Queste invenzioni sono alla base del buon ordine dello stato che Roma riesce a m
 - Roma:la scienza deve migliorare la condizione dei cives,la natura viene studiata per un fine utilitaristico.
 I primi a parlare di scienza sono Lucrezio,nel De Rerum Natura, e Seneca,nel De Naturalis Questiones.Cornelio Celso scrive una sorta di enciclopedia,ma la più importante opera di carattere scientifico è quella di Plinio.
 
+
+
 | **Settore**   | **Descrizione e Importanza**                                  |     | **Aspetto**               | **Grecia**                                         | **Roma**                                           |
 | ------------- | ------------------------------------------------------------- | --- | ------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 | **Idraulica** | Acquedotti, fognature e terme migliorano l’igiene pubblica    |     | **Finalità**              | Conoscenza fine a sé stessa, legata alla filosofia | Utilitaria, volta al miglioramento della vita      |
