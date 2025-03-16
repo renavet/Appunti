@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="it">
-    <!-- Aggiungi il campo di ricerca -->
-<input type="text" id="search-input" placeholder="Cerca nel titolo del file..." onkeyup="searchFiles()" />
 
-<!-- Aggiungi i risultati della ricerca -->
-<div id="search-results"></div>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.name | remove: ".md" | replace: "-", " " }}</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+    <link rel="stylesheet" href="styles.css">
 
 </head>
 <body>
+    <div class="sidebar">
+        <h2>Struttura del sito</h2>
+        <ul id="folder-structure"></ul>
+    </div>
     <h1>{{ page.name | remove: ".md" | replace: "-", " " }}</h1>
     <div class="content">
         {{ content }}
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
