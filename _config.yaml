@@ -1,7 +1,7 @@
 markdown: kramdown
 title: "Il mio blog"
 description: "Un semplice blog con Jekyll e GitHub Pages"
-theme: theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-relative-links
 relative_links:
