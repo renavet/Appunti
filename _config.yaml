@@ -1,1 +1,10 @@
 markdown: kramdown
+
+---
+
+## **🎨 4. Aggiungere un Tema GitHub Pages**
+GitHub supporta temi per rendere il Markdown più carino.  
+Aggiungi questo al file `_config.yml`:  
+
+```yaml
+theme: minima
