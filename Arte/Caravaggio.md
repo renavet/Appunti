@@ -1,0 +1,16 @@
+# Vita
+- Nome reale Michelangelo Merisi
+- Nato **1571 a Caravaggio o Milano ,muore **a Porto Ercole** ** 1610**
+- 1577 lavora a Caravaggio presso la bottega di **Simone Petrazzano**,il suo primo maestro appartenente alla scuola Lombarda
+- 1592 a **Roma** lavora presso la bottega del **cavalier d'arpino**
+- 1597 conosce **il cardinale Francesco Maria del Monte** appassionato d'arte al servizio del quale rimane per 3 anni.**Capisce che è un genio anche se fa entra ed sùesci dalla prigione per futili motivi**
+- 1606 uccide **Ranuccio Tomassoni** durante una partita di palla a corda e fu **condannato alla decapitazione**
+	- Nello stesso anno scappa a **Napoli nei quartieri spagnoli** e ci rimane un anno
+- 1607 parte per **Malta** vuole diventare cavaliere dell'ordine di Malta per avere l'**impunita**
+- 1608 diventa cavaliere di Grazia e non di Malta perchè non è aristocratico
+	- viene arrestato per litigio con un cavaliere di rango superiore
+	- evade **la prigione** grazie ai **Principi Colonna**
+	- **viene espulso dall'ordine**
+- 1609 torna a Napoli e viene sfigurato da alcuni uomini mandati dall'uomo del primo litigio
+- 1610 da Roma arriva la notizia che **Papa Paolo V** stava preparando la revoca della condanna
+	-  **a luglio parte per Porto Ercole lì muore il 18/7/1610** 

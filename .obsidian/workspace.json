@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "a63d3769291bb327",
+    "type": "split",
+    "children": [
+      {
+        "id": "78036406a5f18a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66d0823518b32d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Latino/Prima Età Imperiale contesto storico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prima Età Imperiale contesto storico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20183652ded202a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b8d7339bddc56a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "301b80c32da6994f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5cade7675d7e53c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9a949f8c35a8076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "1c6403ec9fd9ed56",
+    "type": "split",
+    "children": [
+      {
+        "id": "8edc3b5e9d2d0770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "135369863cce9447",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20241019114428.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20241019114428"
+            }
+          },
+          {
+            "id": "b45faf90b1503eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20241019114428.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20241019114428"
+            }
+          },
+          {
+            "id": "8092376f8c3113a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfb08d5e6e6ab838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20241019114428.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20241019114428"
+            }
+          },
+          {
+            "id": "c6cead69166a33fe",
+            "type": "leaf",
+            "state": {
+              "type": "mxmind-view",
+              "state": {},
+              "icon": "network",
+              "title": "Mxmind"
+            }
+          },
+          {
+            "id": "a98d9893eb8dc286",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mxmind:Mxmind": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "f66d0823518b32d6",
+  "lastOpenFiles": [
+    "Latino/Petronio.md",
+    "Filosofia/Marx.md",
+    "Greco/3-4/LETTERATURA GRECA.md",
+    "Filosofia/3-4/FILOSOFIA.md",
+    "Untitled 1.md",
+    "chimica/DNA E RNA.md",
+    "Greco/Teocrito.md",
+    "italiano/D'Annunzio.md",
+    "italiano/Temi D'annunzio vs Pascoli.md",
+    "italiano/Pascoli.md",
+    "Greco/Callimaco.md",
+    "Latino/Giovenale.md",
+    "Latino/Marziale.md",
+    "Latino/3-4/Letteratura_latina.md",
+    "Latino/Quintiliano.md",
+    "Latino/Confronto tra Giovenale,Marziale e Quintiliano.md",
+    "Chats/New Chat.md",
+    "italiano/Leopardi/La Ginestra.md",
+    "Latino/Seneca.md",
+    "Untitled.md",
+    "Greco/Saffo.md",
+    "italiano/Verga.md",
+    "Latino/3-4/ORAZIO, tibullo e properzio.md",
+    "italiano/TRAMA mattia pascal.md",
+    "Latino/3-4/ORAZIO.md",
+    "Filosofia/Platone.md",
+    "resized_canova_amore_e_psiche_200.jpg",
+    "Chats",
+    "Arte/3-4",
+    "Arte/Untitled Folder",
+    "inglese/3-4",
+    "inglese/Untitled Folder",
+    "Latino/3-4/GRAMMATICA LATINO.epub",
+    "Latino/3-4",
+    "Latino/Untitled Folder",
+    "Greco/3-4/saffo compiti.epub",
+    "Greco/3-4/Giambo contro le donne Semonide.epub",
+    "Pasted image 20250108194812.png",
+    "Pasted image 20250108194722.png",
+    "export-2025-01-07T18_25_54.402Z.png",
+    "Pasted image 20250107181319.png",
+    "Pasted image 20250107181220.png",
+    "Screenshot from 2024-10-22 17-36-16.png",
+    "Pasted image 20241022180835.png",
+    "Pasted image 20241022180739.png",
+    "Pasted image 20241022174009.png",
+    "Untitled.canvas"
+  ]
+}
