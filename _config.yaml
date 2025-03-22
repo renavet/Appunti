@@ -1,6 +1,4 @@
 markdown: kramdown
-title: "Il mio blog"
-description: "Un semplice blog con Jekyll e GitHub Pages"
-theme: jekyll-theme-cayman
+theme: minima  
 
 
