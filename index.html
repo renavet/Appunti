@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indice dei file</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>📂 Indice dei file</h1>
+    <p>Questa pagina mostra tutti i file presenti nella directory.</p>
+
+    <ul>
+        {% for file in site.pages %}
+        {% unless file.name == "index.html" %}
+        <li>
+            <a href="{{ file.url }}">{{ file.name | remove: ".md" | remove: ".html" | replace: "-", " " }}</a>
+        </li>
+        {% endunless %}
+        {% endfor %}
+    </ul>
+
+</body>
+
+</html>
